@@ -1,0 +1,4 @@
+event_date,product_id,units_sold,revenue,active_transactions
+2026-11-09,P001,1,50.0,1
+2026-11-10,P001,1,50.0,1
+2026-11-10,P002,3,150.0,1
